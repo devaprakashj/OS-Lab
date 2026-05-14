@@ -21,6 +21,7 @@ This repository contains the completed exercises for the Operating Systems Labor
 | 11a | Create and Activate a Swap Partition | [View Details](./Ex_11a_Swap_Partition.md) |
 | 11b | Implementation of Logical Volume Management (LVM) | [View Details](./Ex_11b_LVM_Configuration.md) |
 | 12a | Configure Basic Network Settings (IP, DNS, Gateway) | [View Details](./Ex_12a_Network_Settings.md) |
+| 12b | Configure and Verify NFS Server and Client | [View Details](./Ex_12b_NFS_Server_Client.md) |
 
 ---
 *Created and formatted for easy copy-paste and step-by-step execution.*
