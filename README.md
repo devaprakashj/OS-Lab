@@ -19,6 +19,7 @@ This repository contains the completed exercises for the Operating Systems Labor
 | 10b | Implement Page Replacement Algorithms: LRU | [View Details](./Ex_10b_LRU_Page_Replacement.md) |
 | 10c | Implement Page Replacement Algorithms: LFU | [View Details](./Ex_10c_LFU_Page_Replacement.md) |
 | 11a | Create and Activate a Swap Partition | [View Details](./Ex_11a_Swap_Partition.md) |
+| 11b | Implementation of Logical Volume Management (LVM) | [View Details](./Ex_11b_LVM_Configuration.md) |
 
 ---
 *Created and formatted for easy copy-paste and step-by-step execution.*
