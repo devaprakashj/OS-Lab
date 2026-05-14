@@ -18,6 +18,7 @@ This repository contains the completed exercises for the Operating Systems Labor
 | 10a | Implement Page Replacement Algorithms: FIFO | [View Details](./Ex_10a_FIFO_Page_Replacement.md) |
 | 10b | Implement Page Replacement Algorithms: LRU | [View Details](./Ex_10b_LRU_Page_Replacement.md) |
 | 10c | Implement Page Replacement Algorithms: LFU | [View Details](./Ex_10c_LFU_Page_Replacement.md) |
+| 11a | Create and Activate a Swap Partition | [View Details](./Ex_11a_Swap_Partition.md) |
 
 ---
 *Created and formatted for easy copy-paste and step-by-step execution.*
