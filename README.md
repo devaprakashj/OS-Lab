@@ -12,6 +12,7 @@ This repository contains the completed exercises for the Operating Systems Labor
 | 4 | User and Permission Management in Linux | [View Details](./Ex_04_User_Permission_Management.md) |
 | 5 | Job Scheduling in Linux (Using `at` and `cron`) | [View Details](./Ex_05_Job_Scheduling.md) |
 | 6 | Implementation of Banker’s Algorithm for Deadlock Avoidance | [View Details](./Ex_06_Bankers_Algorithm.md) |
+| 7 | Implementation of Deadlock Detection Algorithm | [View Details](./Ex_07_Deadlock_Detection.md) |
 
 ---
 *Created and formatted for easy copy-paste and step-by-step execution.*
